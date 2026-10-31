@@ -10,4 +10,16 @@ body {
     background-color:rgb(9, 29, 56);
 }
 
+img {
+    height:192px;
+    width:108px;
+    display:block;
+    margin:auto;
+}
 
+iframe {
+    height:192px;
+    width:108;
+    display:block;
+    margin:auto;
+}
