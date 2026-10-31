@@ -13,11 +13,13 @@ body {
 img {
     height: 270px;
     width: auto;
-    margin: 0 auto;
+    display: flex;
+    justify-content: center;
 }
 
 iframe {
-    margin: 0 auto;
+    display: flex;
+    justify-content: center;
 }
 
 .cool {
