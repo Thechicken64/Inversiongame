@@ -13,11 +13,12 @@ body {
 img {
     height: 270px;
     width: auto;
+    padding:16px
 }
 
 iframe {
     display:block;
-    margin:0;
+    margin:auto;
 }
 
 .gay {
@@ -27,6 +28,8 @@ iframe {
 }
 
 .cool {
-    height:213px;
-    width:auto;
+    height: 213px;
+    width: auto;
+    display: block;
+    margin: auto;
 }
