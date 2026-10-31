@@ -13,14 +13,16 @@ body {
 img {
     height: 270px;
     width: auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
 }
 
 iframe {
+    display:block;
+    margin:0;
+}
+
+.gay {
     display: flex;
-    align-items:center;
+    align-items: center;
     justify-content: space-evenly;
 }
 
