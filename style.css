@@ -11,18 +11,18 @@ body {
 }
 
 img {
-    height:270px;
-    width:480px;
-    display:inline-block;
-    margin:auto;
+    height: 270px;
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 iframe {
-    display:inline-block;
-    margin:auto;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .cool {
     height:213px;
-    width:1002px;
+    width:auto;
 }
