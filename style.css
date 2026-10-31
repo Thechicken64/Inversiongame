@@ -1,11 +1,19 @@
 ﻿.main {
    text-align:center;
-   color:cornflowerblue;
+   color: rgb(98, 163, 255);
    font-family:Impact;
-   font-size:24px;
+   font-size:36px;
    margin:64px;
 }
 
 body {
-    background-color:darkblue;
+    background-color:rgb(39, 69, 110);
+}
+
+img {
+    text-align:center;
+}
+
+iframe {
+    text-align:center;
 }
