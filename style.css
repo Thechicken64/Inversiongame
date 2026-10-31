@@ -14,12 +14,14 @@ img {
     height: 270px;
     width: auto;
     display: flex;
-    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 iframe {
     display: flex;
-    justify-content: center;
+    align-items:center;
+    justify-content: space-evenly;
 }
 
 .cool {
