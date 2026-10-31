@@ -2,5 +2,10 @@
    text-align:center;
    color:cornflowerblue;
    font-family:Impact;
-   font-size:24px
+   font-size:24px;
+   margin:64px;
+}
+
+body {
+    background-color:darkblue;
 }
